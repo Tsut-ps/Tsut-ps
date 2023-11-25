@@ -4,6 +4,6 @@
 
 ### Languages
 - Love: Vue.js
-- Like: JavaScript
+- Like: C++ JavaScript Python
 - Learning: React TypeScript
 - Interest: Svelte Astro
