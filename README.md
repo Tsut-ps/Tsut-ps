@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsut-ps&layout=compact)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsut-ps)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Tsut-ps/Tsut-ps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
