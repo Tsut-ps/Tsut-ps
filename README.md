@@ -9,4 +9,4 @@
 - Interest: Svelte Solid.js Astro
 
 ### Products
-- [V-collection](https://v-collection.vocakentdu.com/) (Vokaken-team/Front-end)
+- [V-collection](https://v-collection.vocakentdu.com/) (Vokaken/Frontend-team)
