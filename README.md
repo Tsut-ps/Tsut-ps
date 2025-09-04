@@ -3,10 +3,10 @@
 [![](https://raw.githubusercontent.com/Tsut-ps/Tsut-ps/main/profile-summary-card-output/gotham/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Tsut-ps/Tsut-ps/main/profile-summary-card-output/gotham/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ### Languages
-- Love: Vue.js React TypeScript/JavaScript
+- Love: React/Next.js Vue.js TypeScript/JavaScript
 - Like: C++ Python CSS-Animation
-- Learning: GSAP Zustand
-- Interest: Svelte Solid.js Astro
+- Learning: Nuxt GSAP Zustand
+- Interest: Svelte Solid.js Astro Go Rust
 
 ### Products
 - 2024/12 [tskr](https://github.com/Tsut-ps/tskr) Task management tool for orgs
