@@ -1,13 +1,15 @@
-### Hi, I'm Tsut-ps 👋
+## Tsut-ps 👋
 
 [![](https://raw.githubusercontent.com/Tsut-ps/Tsut-ps/main/profile-summary-card-output/gotham/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Tsut-ps/Tsut-ps/main/profile-summary-card-output/gotham/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-### Languages
-- Love: React/Next.js Vue.js TypeScript/JavaScript
-- Like: C++ Python CSS-Animation
-- Learning: Nuxt GSAP Zustand
-- Interest: Svelte Solid.js Astro Go Rust
+### かける
 
-### Products
-- 2024/12 [tskr](https://github.com/Tsut-ps/tskr) Task management tool for orgs
-- 2023/12 [V-collection](https://v-collection.vocakentdu.com/) VOCALOID artwork collection site (Vokaken/Frontend-team)
+React/Next.js Vue.js/Nuxt TypeScript/JavaScript Node.js
+
+### ややかける
+
+C++ Python CSS-Animation Astro
+
+### 興味あるだけ
+
+Svelte Solid.js htmx Go Rust
