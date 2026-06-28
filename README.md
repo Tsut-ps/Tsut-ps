@@ -9,7 +9,3 @@ React/Next.js Vue.js/Nuxt TypeScript/JavaScript Node.js
 ### ややかける
 
 C++ Python CSS-Animation Astro
-
-### 興味あるだけ
-
-Svelte Solid.js htmx Go Rust
